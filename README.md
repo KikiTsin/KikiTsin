@@ -1,5 +1,5 @@
 # Hi 👋, I'm <a href="https://github.com/KikiTsin" target="blank">KikiTsin</a>
-<h3>A Passionate Developer from Shenzhen, China &#127470;&#127475</h3>
+<h3>A Passionate Developer from Shenzhen, China </h3>
 
 - 🌱 I’m currently Working on Web Development (React、Vue) and Node as Core Language.
 
